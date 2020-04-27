@@ -1,10 +1,14 @@
+import javax.sound.midi.Soundbank;
 
 public class BitReverseOperatorExample {
 	public static void main(String[] args) {
 		int num1 = 10;
 		int num2 = ~num1;
 		int num3 = num2 + 1;
+		int num4 = 100000000000000;
+		System.out.println(num4);
 		
+		System.out.println("Hello. World");
 		//java2 conflict..
 		//java add....
 		
