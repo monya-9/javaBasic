@@ -5,7 +5,11 @@ public class BitReverseOperatorExample {
 		int num2 = ~num1;
 		int num3 = num2 + 1;
 		
+<<<<<<< HEAD
 		//java2 conflict..
+=======
+		//java add....
+>>>>>>> 04a9de81394a0a651383a2ace960475a3c53dbad
 		
 		String returnValue = toBinaryString(num1);
 		System.out.println(returnValue);
